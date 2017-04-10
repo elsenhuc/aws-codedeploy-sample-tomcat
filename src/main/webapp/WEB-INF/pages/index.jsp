@@ -66,7 +66,7 @@
       <div class="alert alert-dismissible alert-warning">
         <button type="button" class="close" data-dismiss="alert">×</button>
         <h1>Grand Opening!</h1>
-        <p>To celebrate our grand opening, this week only all suits are <b>25% off</b> and include <b>free shipping!</b></p>
+        <p>To celebrate our grand opening, this week only all suits are <b>50% off</b> and include <b>free shipping!</b></p>
         <div class="row">
           <h2><center>Transform your dog from silly to stylish!</center></h2>
           <div class="col-sm-4">
@@ -118,7 +118,7 @@
             <h3 class="panel-title">Free alterations</h3>
           </div>
           <div class="panel-body">
-            Don't let this happen to your pooch! 
+            Don't let this happen to your pooch!
             Every purchase comes with free custom alterations to ensure a comfortable and snazzy fit.
             <img src="images/alterations-dog4.png" style="width:287px;height:300px;">
           </div>
